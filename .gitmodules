@@ -1,0 +1,6 @@
+[submodule "pupil-interface"]
+	path = pupil-interface
+	url = git@github.com:papr/pupil-interface.git
+[submodule "psychopy-pupil-utilities"]
+	path = psychopy-pupil-utilities
+	url = git@github.com:papr/psychopy-pupil-utilities.git
